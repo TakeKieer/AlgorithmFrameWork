@@ -1,23 +1,19 @@
 #include "Framework.h"
 
-void VectorTestSpace();
 
 int main()
 {
-	VectorTestSpace();
+	vector<int> progresses = {93,30,55 };
+	vector<int> speeds = { 1,30,5 };
 	
-	return 0;
-}
-
-// Vector 사용법 공간
-void VectorTestSpace()
-{
-	vector<int> number = { 5,0,2,7 };
-	vector<int> result = SelectTwoNumberAdd(number);
+	
+	vector<int> result; //= ProgressCheckWorking(progresses,speeds);
 	vector<int>::iterator resultIt;
-
 	for (resultIt = result.begin(); resultIt != result.end(); resultIt++)
 	{
 		cout << *resultIt << endl;
 	}
+	
+	return 0;
 }
+
