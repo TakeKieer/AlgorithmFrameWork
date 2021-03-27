@@ -123,10 +123,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="02. ProgressCheckWorking.cpp" />
     <ClCompile Include="Connect.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="01. SelectTwoNumberAdd.cpp" />
+    <ClCompile Include="Programmers\01. SelectTwoNumberAdd.cpp" />
+    <ClCompile Include="Programmers\02. CannotFinishPlayer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Connect.h" />

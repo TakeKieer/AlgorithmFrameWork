@@ -24,13 +24,13 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="01. SelectTwoNumberAdd.cpp">
-      <Filter>소스 파일\Problem</Filter>
-    </ClCompile>
     <ClCompile Include="Connect.cpp">
       <Filter>소스 파일\Base</Filter>
     </ClCompile>
-    <ClCompile Include="02. ProgressCheckWorking.cpp">
+    <ClCompile Include="Programmers\01. SelectTwoNumberAdd.cpp">
+      <Filter>소스 파일\Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="Programmers\02. CannotFinishPlayer.cpp">
       <Filter>소스 파일\Problem</Filter>
     </ClCompile>
   </ItemGroup>
