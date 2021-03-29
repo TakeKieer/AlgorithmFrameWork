@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="03. PracticeTest.cpp" />
     <ClCompile Include="Connect.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Programmers\01. SelectTwoNumberAdd.cpp" />

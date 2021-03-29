@@ -33,6 +33,9 @@
     <ClCompile Include="Programmers\02. CannotFinishPlayer.cpp">
       <Filter>소스 파일\Problem</Filter>
     </ClCompile>
+    <ClCompile Include="03. PracticeTest.cpp">
+      <Filter>소스 파일\Problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Framework.h">
